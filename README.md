@@ -4,3 +4,10 @@ Este Projeto utiliza Pygame para visualização do jogo da vida de Conway e a bi
 
 ## Todo modelo, explicações e dados essenciais foram relatados no [Artigo](https://drive.google.com/file/d/1CikNdcYb7xwGWL5ZJegJvHUpCGhKYnHJ/view?usp=sharing).
 Assim como também pode ser lido diretamente do Github.
+
+## Requisitos: 
+Instale as dependências com o comando: 
+' pip install pygame '
+' pip install numpy '
+' pip install time ' 
+' pip install matplot '
