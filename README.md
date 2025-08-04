@@ -1,0 +1,1 @@
+# O-Jogo-da-Vida-de-Conway-como-Modelo-Fundamental-para-a-Emerg-ncia-de-Complexidade-em-Sistemas-Simpl
