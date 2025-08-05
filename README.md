@@ -9,5 +9,4 @@ Assim como também pode ser lido diretamente do Github.
 Instale as dependências com o comando: 
 `pip install pygame`\
 `pip install numpy`\
-`pip install time`\
 `pip install matplot`
